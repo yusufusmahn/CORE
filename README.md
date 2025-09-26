@@ -14,8 +14,8 @@ While Sui Prover focuses on post-hoc verification, **Core generates secure-by-de
 - 🔗 **Sui-specific protections** (consensus races, gas economics)
 
 This project is a hackathon demo showcasing:
-- An AI-powered scaffolder that generates Sui Move dApps from natural language prompts.
 - A static security analyzer that scans generated Move contracts against a mock threat database.
+- An AI-powered scaffolder that generates Sui Move dApps from natural language prompts.
 
 Structure:
 - threat-db/threats.json  -> Mock threat database (JSON)
