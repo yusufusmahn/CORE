@@ -1,0 +1,18 @@
+# Node modules
+node_modules/
+
+# VS Code settings
+.vscode/
+
+# Build output
+out/
+dist/
+
+# VSIX packages
+*.vsix
+
+# Logs
+*.log
+
+# Environment files
+.env
